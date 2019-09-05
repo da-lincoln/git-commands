@@ -19,7 +19,7 @@ git commit -m "DESCRIPTION OF CHANGES"
 
 git show
 
-##Show Log of Commits
+## Show Log of Commits
 
 git log
 
